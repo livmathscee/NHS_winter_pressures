@@ -1,0 +1,16 @@
+Mathematics Centre for Enhancement in Education, Department of Mathematical Sciences, University of Liverpool
+-------------------------------------------------------------------------
+
+This R code is a simplified version of code published by Fiona Grimm, Health Foundation, at https://github.com/fiona-grimm/NHS_winter_pressures (accessed 14 June 2019), used with permission.
+The work is discussed at 
+https://towardsdatascience.com/using-r-to-track-nhs-winter-pressures-fedcccce0b06 (accessed 14 June 2019).
+
+The winter timeseries data is published by NHS England at https://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/ (accessed 14 June 2019), under the Open Government Licence:
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ 
+Tabs not used in the computation have been removed.
+
+The STP boundary data is published by the Office of National Statistics at
+https://geoportal.statistics.gov.uk/datasets/sustainability-and-transformation-partnerships-february-2017-ultra-generalised-clipped-boundaries-in-england (accessed 14 June 2019), also under the Open Government Licence.
+
+-------------------------------------------------------------------------
+Contains public sector information licensed under the Open Government Licence v3.0.
